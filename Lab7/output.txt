@@ -1,0 +1,4 @@
+==== Output Stats ====
+Hours: 20
+Total Charge: $27.89
+Rate: $2.79 an hour
