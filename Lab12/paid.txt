@@ -1,0 +1,4 @@
+Total Pay:  8471.97
+Average Pay: 2117.99
+Max Pay: 3828.80
+Min Pay: 1040.34
